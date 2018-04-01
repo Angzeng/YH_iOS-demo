@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>groupContent</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>profile_collecting</string>
+				<key>title</key>
+				<string>我的收藏</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>groupContent</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>profile_setting</string>
+				<key>title</key>
+				<string>设置</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>profile_about</string>
+				<key>title</key>
+				<string>关于</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
